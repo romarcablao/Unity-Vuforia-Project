@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CGC_Logo" size="0.500000 0.559322" />
+    <ImageTarget name="BCHATO_Logo" size="0.300000 0.300000" />
+    <ImageTarget name="BCHATO_RizalSchool_01" size="0.060000 0.071820" />
+    <ImageTarget name="BCHATO_MagCover_01" size="0.300000 0.389074" />
+  </Tracking>
+</QCARConfig>
